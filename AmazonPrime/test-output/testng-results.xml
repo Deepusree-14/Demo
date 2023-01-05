@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[TC2 running]]>
+    </line>
+    <line>
+      <![CDATA[TC3 running]]>
+    </line>
+    <line>
+      <![CDATA[TC1 running]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-04T12:02:58 IST" name="Suite" finished-at="2023-01-04T12:02:58 IST" duration-ms="457">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T12:02:58 IST" name="Test" finished-at="2023-01-04T12:02:58 IST" duration-ms="457">
+      <class name="testcases.TC1test">
+        <test-method signature="m3()[pri:0, instance:testcases.TC1test@2c35e847]" started-at="2023-01-04T12:02:58 IST" name="m3" finished-at="2023-01-04T12:02:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC1 running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+      </class> <!-- testcases.TC1test -->
+      <class name="testcases.TC3test">
+        <test-method signature="m3()[pri:0, instance:testcases.TC3test@7c24b813]" started-at="2023-01-04T12:02:58 IST" name="m3" finished-at="2023-01-04T12:02:58 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC3 running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+      </class> <!-- testcases.TC3test -->
+      <class name="testcases.TC2test">
+        <test-method signature="m2()[pri:0, instance:testcases.TC2test@56cdfb3b]" started-at="2023-01-04T12:02:58 IST" name="m2" finished-at="2023-01-04T12:02:58 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC2 running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- testcases.TC2test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
